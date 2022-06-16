@@ -2,7 +2,7 @@
 LRU (Least Recently Used ) Cache implementation using Doubly Linked List and Unordered Map 
 
 * Project by - Ayush Agarwal 
-* Fields/Subjects - Data Structures and Algorithms (DSA) , Object Oriented Programming (OOPS) 
+* Fields/Subjects - Data Structures and Algorithms (DSA) , Object Oriented Programming (OOPS) , Operating System (OS) 
 * Tools (Programming Language) - C++ 
 
 The code has been well explained in comments by me , refer to it for explanation . 
