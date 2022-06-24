@@ -49,7 +49,6 @@ I've written this explanation based on my understanding rather than from a sourc
 
 ## FEEDIN Method 
 ![image](https://user-images.githubusercontent.com/86561124/172538565-104a36aa-e513-48da-8863-713e37c9087c.png)
-
 ![image](https://user-images.githubusercontent.com/86561124/172538574-03461f2a-ebdb-45d3-9ed2-b7f2d2b62a14.png)
 
 ## GETTIN Method 
